@@ -39,5 +39,4 @@ around pricing, discounting, and customer satisfaction strategy.
    rating (4.31) with lowest standard deviation (0.15)
 
 ## Files
-## Files
 - amazon_project.xlsx — cleaned dataset with pivot tables and charts
