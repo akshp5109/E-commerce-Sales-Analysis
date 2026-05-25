@@ -39,5 +39,5 @@ around pricing, discounting, and customer satisfaction strategy.
    rating (4.31) with lowest standard deviation (0.15)
 
 ## Files
-- amazon_cleaned.xlsx — cleaned dataset with calculated columns
-- amazon_raw.csv — original dataset (unmodified)
+## Files
+- amazon_project.xlsx — cleaned dataset with pivot tables and charts
